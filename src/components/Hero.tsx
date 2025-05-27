@@ -22,7 +22,7 @@ const Hero = () => {
               <div className="inline-block bg-white/10 backdrop-blur-md rounded-full px-4 py-2 text-sm font-medium mb-2">
                 <span className="flex items-center gap-2">
                   <TrendingUp className="h-4 w-4" />
-                  Trending products for 2023
+                  Trending products for 2025
                 </span>
               </div>
               
