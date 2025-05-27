@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <h3 className="text-xl font-bold mb-4 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-              E-Commerce App
+              Ezbuy App
             </h3>
             <p className="text-gray-400 mb-4">
               Your trusted partner for premium products and exceptional shopping experience.
@@ -60,7 +60,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 E-Commerce App. All rights reserved.</p>
+          <p>&copy; 2025 Ezbuy App. All rights reserved.</p>
         </div>
       </div>
     </footer>
