@@ -25,7 +25,7 @@ const Header = ({ cartItemsCount, onCartClick }: HeaderProps) => {
           <div className="flex items-center space-x-8">
             <Link to="/">
               <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                E-Commerce App
+                Ezbuy App
               </h1>
             </Link>
             <nav className="hidden md:flex space-x-6">
